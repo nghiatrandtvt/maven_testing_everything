@@ -4,14 +4,14 @@
 
     <groupId>org.example</groupId>
     <artifactId>maven_test</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
     <packaging>jar</packaging>
 
     <scm>
         <connection>scm:git:https://github.com/nghiatrandtvt/maven_testing_everything.git</connection>
         <developerConnection>scm:git:https://github.com/nghiatrandtvt/maven_testing_everything.git</developerConnection>
         <url>https://github.com/nghiatrandtvt/maven_testing_everything</url>
-      <tag>HEAD</tag>
+      <tag>maven_test-1.1</tag>
   </scm>
 
     <build>
